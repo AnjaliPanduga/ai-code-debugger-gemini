@@ -106,10 +106,14 @@ The application is built with **Streamlit**, providing an intuitive and interact
 ## 📂 Project Structure
 
 ```
-ai-code-debugger/
+ai-code-debugger-gemini/
 │── app.py
 │── requirements.txt
 │── README.md
+│── ai_engine.py
+│── config.py
+│── file_handler.py
+│── prompts.py
 │── .env (not pushed)
 │── .gitignore
 ```
