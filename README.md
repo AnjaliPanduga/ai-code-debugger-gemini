@@ -1,4 +1,4 @@
-# 🧠 AI-Powered Code Debugger & Multi-Functional Code Assistant (Gemini AI)
+# 🧠 Intelligent Code Analysis and Optimization System (Gemini AI)
 
 ## 📌 Overview
 
